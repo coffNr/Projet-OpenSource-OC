@@ -1,6 +1,6 @@
 # Mon Programme LS
 
-[![GitHub stars](https://img.shields.io/github/stars/votrepseudo/MonProgrammeLS.svg?style=social)](https://github.com/votrepseudo/MonProgrammeLS/stargazers)
+[![GitHub stars](https:)
 
 Bienvenue dans le dépôt de Mon Projet LS, une implémentation simple de la commande `ls` en Python.
 
